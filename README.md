@@ -1,0 +1,2 @@
+# pokedextgc
+Pokedex TGC
