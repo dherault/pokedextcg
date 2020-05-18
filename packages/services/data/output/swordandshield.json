@@ -1,0 +1,1946 @@
+[
+  {
+    "imageFileName": "en_US-SWSH1-001-celebi_v.jpg",
+    "name": "Celebi V",
+    "hp": "180 HP",
+    "symbol": "G",
+    "number": 1,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-002-roselia.jpg",
+    "name": "Roselia",
+    "hp": "70 HP",
+    "symbol": "G",
+    "number": 2,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-003-roselia.jpg",
+    "name": "Roselia",
+    "hp": "70 HP",
+    "symbol": "G",
+    "number": 3,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-004-roserade.jpg",
+    "name": "Roserade",
+    "hp": "120 HP",
+    "symbol": "G",
+    "number": 4,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-005-cottonee.jpg",
+    "name": "Cottonee",
+    "hp": "60 HP",
+    "symbol": "G",
+    "number": 5,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-006-whimsicott.jpg",
+    "name": "Whimsicott",
+    "hp": "100 HP",
+    "symbol": "G",
+    "number": 6,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-007-maractus.jpg",
+    "name": "Maractus",
+    "hp": "110 HP",
+    "symbol": "G",
+    "number": 7,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-008-durant.jpg",
+    "name": "Durant",
+    "hp": "110 HP",
+    "symbol": "G",
+    "number": 8,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-009-dhelmise_v.jpg",
+    "name": "Dhelmise V",
+    "hp": "220 HP",
+    "symbol": "G",
+    "number": 9,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-010-grookey.jpg",
+    "name": "Grookey",
+    "hp": "60 HP",
+    "symbol": "G",
+    "number": 10,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-011-grookey.jpg",
+    "name": "Grookey",
+    "hp": "70 HP",
+    "symbol": "G",
+    "number": 11,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-012-thwackey.jpg",
+    "name": "Thwackey",
+    "hp": "100 HP",
+    "symbol": "G",
+    "number": 12,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-013-thwackey.jpg",
+    "name": "Thwackey",
+    "hp": "100 HP",
+    "symbol": "G",
+    "number": 13,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-014-rillaboom.jpg",
+    "name": "Rillaboom",
+    "hp": "170 HP",
+    "symbol": "G",
+    "number": 14,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-015-rillaboom.jpg",
+    "name": "Rillaboom",
+    "hp": "190 HP",
+    "symbol": "G",
+    "number": 15,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-016-blipbug.jpg",
+    "name": "Blipbug",
+    "hp": "50 HP",
+    "symbol": "G",
+    "number": 16,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-017-blipbug.jpg",
+    "name": "Blipbug",
+    "hp": "40 HP",
+    "symbol": "G",
+    "number": 17,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-018-dottler.jpg",
+    "name": "Dottler",
+    "hp": "70 HP",
+    "symbol": "G",
+    "number": 18,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-019-orbeetle.jpg",
+    "name": "Orbeetle",
+    "hp": "130 HP",
+    "symbol": "G",
+    "number": 19,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-020-gossifleur.jpg",
+    "name": "Gossifleur",
+    "hp": "50 HP",
+    "symbol": "G",
+    "number": 20,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-021-eldegoss.jpg",
+    "name": "Eldegoss",
+    "hp": "80 HP",
+    "symbol": "G",
+    "number": 21,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-022-vulpix-1.jpg",
+    "name": "Vulpix",
+    "hp": "70 HP",
+    "symbol": "R",
+    "number": 22,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-023-ninetales.jpg",
+    "name": "Ninetales",
+    "hp": "120 HP",
+    "symbol": "R",
+    "number": 23,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-024-torkoal_v.jpg",
+    "name": "Torkoal V",
+    "hp": "210 HP",
+    "symbol": "R",
+    "number": 24,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-025-victini_v.jpg",
+    "name": "Victini V",
+    "hp": "190 HP",
+    "symbol": "R",
+    "number": 25,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-026-heatmor.jpg",
+    "name": "Heatmor",
+    "hp": "110 HP",
+    "symbol": "R",
+    "number": 26,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-027-salandit.jpg",
+    "name": "Salandit",
+    "hp": "70 HP",
+    "symbol": "R",
+    "number": 27,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-028-salazzle.jpg",
+    "name": "Salazzle",
+    "hp": "120 HP",
+    "symbol": "R",
+    "number": 28,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-029-turtonator.jpg",
+    "name": "Turtonator",
+    "hp": "130 HP",
+    "symbol": "R",
+    "number": 29,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-030-scorbunny.jpg",
+    "name": "Scorbunny",
+    "hp": "60 HP",
+    "symbol": "R",
+    "number": 30,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-031-scorbunny.png",
+    "name": "Scorbunny",
+    "hp": "70 HP",
+    "symbol": "R",
+    "number": 31,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-032-raboot.jpg",
+    "name": "Raboot",
+    "hp": "90 HP",
+    "symbol": "R",
+    "number": 32,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-033-raboot.jpg",
+    "name": "Raboot",
+    "hp": "90 HP",
+    "symbol": "R",
+    "number": 33,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-034-cinderace.jpg",
+    "name": "Cinderace",
+    "hp": "170 HP",
+    "symbol": "R",
+    "number": 34,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-035-cinderace.jpg",
+    "name": "Cinderace",
+    "hp": "170 HP",
+    "symbol": "R",
+    "number": 35,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-036-cinderace.jpg",
+    "name": "Cinderace",
+    "hp": "170 HP",
+    "symbol": "R",
+    "number": 36,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-037-sizzlipede.jpg",
+    "name": "Sizzlipede",
+    "hp": "70 HP",
+    "symbol": "R",
+    "number": 37,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-038-sizzlipede.jpg",
+    "name": "Sizzlipede",
+    "hp": "70 HP",
+    "symbol": "R",
+    "number": 38,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-039-centiskorch.jpg",
+    "name": "Centiskorch",
+    "hp": "130 HP",
+    "symbol": "R",
+    "number": 39,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-040-shellder.jpg",
+    "name": "Shellder",
+    "hp": "70 HP",
+    "symbol": "W",
+    "number": 40,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-041-cloyster.jpg",
+    "name": "Cloyster",
+    "hp": "130 HP",
+    "symbol": "W",
+    "number": 41,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-042-krabby.jpg",
+    "name": "Krabby",
+    "hp": "80 HP",
+    "symbol": "W",
+    "number": 42,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-043-krabby.jpg",
+    "name": "Krabby",
+    "hp": "80 HP",
+    "symbol": "W",
+    "number": 43,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-044-kingler.jpg",
+    "name": "Kingler",
+    "hp": "130 HP",
+    "symbol": "W",
+    "number": 44,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-045-goldeen.jpg",
+    "name": "Goldeen",
+    "hp": "70 HP",
+    "symbol": "W",
+    "number": 45,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-046-goldeen.jpg",
+    "name": "Goldeen",
+    "hp": "70 HP",
+    "symbol": "W",
+    "number": 46,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-047-seaking.jpg",
+    "name": "Seaking",
+    "hp": "110 HP",
+    "symbol": "W",
+    "number": 47,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-048-lapras.jpg",
+    "name": "Lapras",
+    "hp": "130 HP",
+    "symbol": "W",
+    "number": 48,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-049-lapras_v.jpg",
+    "name": "Lapras V",
+    "hp": "210 HP",
+    "symbol": "W",
+    "number": 49,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-050-lapras_vmax.jpg",
+    "name": "Lapras VMAX",
+    "hp": "320 HP",
+    "symbol": "W",
+    "number": 50,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo VMAX"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-051-qwilfish.jpg",
+    "name": "Qwilfish",
+    "hp": "90 HP",
+    "symbol": "W",
+    "number": 51,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-052-mantine.jpg",
+    "name": "Mantine",
+    "hp": "110 HP",
+    "symbol": "W",
+    "number": 52,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-053-keldeo_v.jpg",
+    "name": "Keldeo V",
+    "hp": "210 HP",
+    "symbol": "W",
+    "number": 53,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-054-sobble.jpg",
+    "name": "Sobble",
+    "hp": "60 HP",
+    "symbol": "W",
+    "number": 54,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-055-sobble.jpg",
+    "name": "Sobble",
+    "hp": "70 HP",
+    "symbol": "W",
+    "number": 55,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-056-drizzile.jpg",
+    "name": "Drizzile",
+    "hp": "90 HP",
+    "symbol": "W",
+    "number": 56,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-057-drizzile.jpg",
+    "name": "Drizzile",
+    "hp": "90 HP",
+    "symbol": "W",
+    "number": 57,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-058-inteleon.jpg",
+    "name": "Inteleon",
+    "hp": "160 HP",
+    "symbol": "W",
+    "number": 58,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-059-inteleon.jpg",
+    "name": "Inteleon",
+    "hp": "160 HP",
+    "symbol": "W",
+    "number": 59,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-060-chewtle.jpg",
+    "name": "Chewtle",
+    "hp": "80 HP",
+    "symbol": "W",
+    "number": 60,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-061-drednaw.jpg",
+    "name": "Drednaw",
+    "hp": "130 HP",
+    "symbol": "W",
+    "number": 61,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-062-cramorant.jpg",
+    "name": "Cramorant",
+    "hp": "110 HP",
+    "symbol": "W",
+    "number": 62,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-063-snom.jpg",
+    "name": "Snom",
+    "hp": "50 HP",
+    "symbol": "W",
+    "number": 63,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-064-frosmoth.jpg",
+    "name": "Frosmoth",
+    "hp": "90 HP",
+    "symbol": "W",
+    "number": 64,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-065-pikachu.jpg",
+    "name": "Pikachu",
+    "hp": "60 HP",
+    "symbol": "L",
+    "number": 65,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-066-raichu.jpg",
+    "name": "Raichu",
+    "hp": "130 HP",
+    "symbol": "L",
+    "number": 66,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-067-chinchou.jpg",
+    "name": "Chinchou",
+    "hp": "70 HP",
+    "symbol": "L",
+    "number": 67,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-068-chinchou.jpg",
+    "name": "Chinchou",
+    "hp": "60 HP",
+    "symbol": "L",
+    "number": 68,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-069-lanturn.jpg",
+    "name": "Lanturn",
+    "hp": "120 HP",
+    "symbol": "L",
+    "number": 69,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-070-joltik.jpg",
+    "name": "Joltik",
+    "hp": "50 HP",
+    "symbol": "L",
+    "number": 70,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-071-galvantula.jpg",
+    "name": "Galvantula",
+    "hp": "100 HP",
+    "symbol": "L",
+    "number": 71,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-072-tapu_koko_v.jpg",
+    "name": "Tapu Koko V",
+    "hp": "200 HP",
+    "symbol": "L",
+    "number": 72,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-073-yamper.jpg",
+    "name": "Yamper",
+    "hp": "70 HP",
+    "symbol": "L",
+    "number": 73,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-074-yamper.jpg",
+    "name": "Yamper",
+    "hp": "70 HP",
+    "symbol": "L",
+    "number": 74,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-075-boltund.jpg",
+    "name": "Boltund",
+    "hp": "130 HP",
+    "symbol": "L",
+    "number": 75,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-076-boltund.jpg",
+    "name": "Boltund",
+    "hp": "120 HP",
+    "symbol": "L",
+    "number": 76,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-077-pincurchin.jpg",
+    "name": "Pincurchin",
+    "hp": "80 HP",
+    "symbol": "L",
+    "number": 77,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-078-morpeko.jpg",
+    "name": "Morpeko",
+    "hp": "90 HP",
+    "symbol": "L",
+    "number": 78,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-079-morpeko_v.jpg",
+    "name": "Morpeko V",
+    "hp": "170 HP",
+    "symbol": "L",
+    "number": 79,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-080-morpeko_vmax.jpg",
+    "name": "Morpeko VMAX",
+    "hp": "300 HP",
+    "symbol": "L",
+    "number": 80,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo VMAX"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-081-galarian_ponyta.jpg",
+    "name": "Galarian Ponyta",
+    "hp": "70 HP",
+    "symbol": "P",
+    "number": 81,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-082-galarian_rapidash.jpg",
+    "name": "Galarian Rapidash",
+    "hp": "100 HP",
+    "symbol": "P",
+    "number": 82,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-083-gastly.jpg",
+    "name": "Gastly",
+    "hp": "60 HP",
+    "symbol": "P",
+    "number": 83,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-084-haunter.jpg",
+    "name": "Haunter",
+    "hp": "70 HP",
+    "symbol": "P",
+    "number": 84,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-085-gengar.jpg",
+    "name": "Gengar",
+    "hp": "110 HP",
+    "symbol": "P",
+    "number": 85,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-086-wobbuffet_v.jpg",
+    "name": "Wobbuffet V",
+    "hp": "220 HP",
+    "symbol": "P",
+    "number": 86,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-087-munna.jpg",
+    "name": "Munna",
+    "hp": "70 HP",
+    "symbol": "P",
+    "number": 87,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-088-musharna.jpg",
+    "name": "Musharna",
+    "hp": "120 HP",
+    "symbol": "P",
+    "number": 88,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-089-sinistea.jpg",
+    "name": "Sinistea",
+    "hp": "30 HP",
+    "symbol": "P",
+    "number": 89,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-090-polteageist.jpg",
+    "name": "Polteageist",
+    "hp": "60 HP",
+    "symbol": "P",
+    "number": 90,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-091-indeedee_v.jpg",
+    "name": "Indeedee V",
+    "hp": "180 HP",
+    "symbol": "P",
+    "number": 91,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-092-diglett.jpg",
+    "name": "Diglett",
+    "hp": "60 HP",
+    "symbol": "F",
+    "number": 92,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-093-dugtrio.jpg",
+    "name": "Dugtrio",
+    "hp": "90 HP",
+    "symbol": "F",
+    "number": 93,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-094-hitmonlee.jpg",
+    "name": "Hitmonlee",
+    "hp": "120 HP",
+    "symbol": "F",
+    "number": 94,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-095-hitmonchan.jpg",
+    "name": "Hitmonchan",
+    "hp": "120 HP",
+    "symbol": "F",
+    "number": 95,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-096-rhyhorn.jpg",
+    "name": "Rhyhorn",
+    "hp": "100 HP",
+    "symbol": "F",
+    "number": 96,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-097-rhyhorn.jpg",
+    "name": "Rhyhorn",
+    "hp": "90 HP",
+    "symbol": "F",
+    "number": 97,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-098-rhydon.jpg",
+    "name": "Rhydon",
+    "hp": "120 HP",
+    "symbol": "F",
+    "number": 98,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-099-rhyperior.jpg",
+    "name": "Rhyperior",
+    "hp": "190 HP",
+    "symbol": "F",
+    "number": 99,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-100-sudowoodo.jpg",
+    "name": "Sudowoodo",
+    "hp": "100 HP",
+    "symbol": "F",
+    "number": 100,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-101-baltoy.jpg",
+    "name": "Baltoy",
+    "hp": "70 HP",
+    "symbol": "F",
+    "number": 101,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-102-baltoy.jpg",
+    "name": "Baltoy",
+    "hp": "60 HP",
+    "symbol": "F",
+    "number": 102,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-103-claydol.jpg",
+    "name": "Claydol",
+    "hp": "120 HP",
+    "symbol": "F",
+    "number": 103,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-104-regirock_v.jpg",
+    "name": "Regirock V",
+    "hp": "220 HP",
+    "symbol": "F",
+    "number": 104,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-105-mudbray.jpg",
+    "name": "Mudbray",
+    "hp": "80 HP",
+    "symbol": "F",
+    "number": 105,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-106-mudsdale.jpg",
+    "name": "Mudsdale",
+    "hp": "150 HP",
+    "symbol": "F",
+    "number": 106,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-107-silicobra.jpg",
+    "name": "Silicobra",
+    "hp": "80 HP",
+    "symbol": "F",
+    "number": 107,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-108-silicobra.jpg",
+    "name": "Silicobra",
+    "hp": "70 HP",
+    "symbol": "F",
+    "number": 108,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-109-sandaconda.jpg",
+    "name": "Sandaconda",
+    "hp": "140 HP",
+    "symbol": "F",
+    "number": 109,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-110-sandaconda.jpg",
+    "name": "Sandaconda",
+    "hp": "130 HP",
+    "symbol": "F",
+    "number": 110,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-111-clobbopus.jpg",
+    "name": "Clobbopus",
+    "hp": "60 HP",
+    "symbol": "F",
+    "number": 111,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-112-clobbopus.jpg",
+    "name": "Clobbopus",
+    "hp": "80 HP",
+    "symbol": "F",
+    "number": 112,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-113-grapploct.jpg",
+    "name": "Grapploct",
+    "hp": "130 HP",
+    "symbol": "F",
+    "number": 113,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-114-stonjourner.jpg",
+    "name": "Stonjourner",
+    "hp": "120 HP",
+    "symbol": "F",
+    "number": 114,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-115-stonjourner_v.jpg",
+    "name": "Stonjourner V",
+    "hp": "220 HP",
+    "symbol": "F",
+    "number": 115,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-116-stonjourner_vmax.jpg",
+    "name": "Stonjourner VMAX",
+    "hp": "330 HP",
+    "symbol": "F",
+    "number": 116,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo VMAX"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-117-galarian_zigzagoon.jpg",
+    "name": "Galarian Zigzagoon",
+    "hp": "70 HP",
+    "symbol": "D",
+    "number": 117,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-118-galarian_linoone.jpg",
+    "name": "Galarian Linoone",
+    "hp": "100 HP",
+    "symbol": "D",
+    "number": 118,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-119-galarian_obstagoon.jpg",
+    "name": "Galarian Obstagoon",
+    "hp": "160 HP",
+    "symbol": "D",
+    "number": 119,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-120-sableye_v.jpg",
+    "name": "Sableye V",
+    "hp": "170 HP",
+    "symbol": "D",
+    "number": 120,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-121-skorupi.jpg",
+    "name": "Skorupi",
+    "hp": "80 HP",
+    "symbol": "D",
+    "number": 121,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-122-drapion.jpg",
+    "name": "Drapion",
+    "hp": "140 HP",
+    "symbol": "D",
+    "number": 122,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-123-croagunk.jpg",
+    "name": "Croagunk",
+    "hp": "70 HP",
+    "symbol": "D",
+    "number": 123,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-124-toxicroak.jpg",
+    "name": "Toxicroak",
+    "hp": "110 HP",
+    "symbol": "D",
+    "number": 124,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-125-nickit.jpg",
+    "name": "Nickit",
+    "hp": "70 HP",
+    "symbol": "D",
+    "number": 125,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-126-thievul.jpg",
+    "name": "Thievul",
+    "hp": "100 HP",
+    "symbol": "D",
+    "number": 126,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-127-galarian_meowth.jpg",
+    "name": "Galarian Meowth",
+    "hp": "70 HP",
+    "symbol": "M",
+    "number": 127,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-128-galarian_perrserker.jpg",
+    "name": "Galarian Perrserker",
+    "hp": "120 HP",
+    "symbol": "M",
+    "number": 128,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-129-mawile.jpg",
+    "name": "Mawile",
+    "hp": "90 HP",
+    "symbol": "M",
+    "number": 129,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-130-ferroseed.jpg",
+    "name": "Ferroseed",
+    "hp": "70 HP",
+    "symbol": "M",
+    "number": 130,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-131-ferrothorn.jpg",
+    "name": "Ferrothorn",
+    "hp": "130 HP",
+    "symbol": "M",
+    "number": 131,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-132-galarian_stunfisk.jpg",
+    "name": "Galarian Stunfisk",
+    "hp": "120 HP",
+    "symbol": "M",
+    "number": 132,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-133-pawniard.jpg",
+    "name": "Pawniard",
+    "hp": "70 HP",
+    "symbol": "M",
+    "number": 133,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-134-bisharp.jpg",
+    "name": "Bisharp",
+    "hp": "120 HP",
+    "symbol": "M",
+    "number": 134,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-135-corviknight.jpg",
+    "name": "Corviknight",
+    "hp": "170 HP",
+    "symbol": "M",
+    "number": 135,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-136-cufant.jpg",
+    "name": "Cufant",
+    "hp": "100 HP",
+    "symbol": "M",
+    "number": 136,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-137-copperajah.jpg",
+    "name": "Copperajah",
+    "hp": "190 HP",
+    "symbol": "M",
+    "number": 137,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-138-zacian_v.jpg",
+    "name": "Zacian V",
+    "hp": "220 HP",
+    "symbol": "M",
+    "number": 138,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-139-zamazenta_v.jpg",
+    "name": "Zamazenta V",
+    "hp": "230 HP",
+    "symbol": "M",
+    "number": 139,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-140-snorlax.jpg",
+    "name": "Snorlax",
+    "hp": "150 HP",
+    "symbol": "C",
+    "number": 140,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-141-snorlax_v.jpg",
+    "name": "Snorlax V",
+    "hp": "220 HP",
+    "symbol": "C",
+    "number": 141,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-142-snorlax_vmax.jpg",
+    "name": "Snorlax VMAX",
+    "hp": "340 HP",
+    "symbol": "C",
+    "number": 142,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo VMAX"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-143-hoothoot.jpg",
+    "name": "Hoothoot",
+    "hp": "70 HP",
+    "symbol": "C",
+    "number": 143,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-144-noctowl.jpg",
+    "name": "Noctowl",
+    "hp": "110 HP",
+    "symbol": "C",
+    "number": 144,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-145-minccino.jpg",
+    "name": "Minccino",
+    "hp": "70 HP",
+    "symbol": "C",
+    "number": 145,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-146-minccino.jpg",
+    "name": "Minccino",
+    "hp": "60 HP",
+    "symbol": "C",
+    "number": 146,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-147-cinccino.jpg",
+    "name": "Cinccino",
+    "hp": "90 HP",
+    "symbol": "C",
+    "number": 147,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-148-oranguru.jpg",
+    "name": "Oranguru",
+    "hp": "120 HP",
+    "symbol": "C",
+    "number": 148,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-149-drampa.jpg",
+    "name": "Drampa",
+    "hp": "130 HP",
+    "symbol": "C",
+    "number": 149,
+    "set": "Sword & Shield",
+    "rarity": "Rare"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-150-rookidee.jpg",
+    "name": "Rookidee",
+    "hp": "60 HP",
+    "symbol": "C",
+    "number": 150,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-151-corvisquire.jpg",
+    "name": "Corvisquire",
+    "hp": "80 HP",
+    "symbol": "C",
+    "number": 151,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-152-wooloo.jpg",
+    "name": "Wooloo",
+    "hp": "70 HP",
+    "symbol": "C",
+    "number": 152,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-153-wooloo.jpg",
+    "name": "Wooloo",
+    "hp": "70 HP",
+    "symbol": "C",
+    "number": 153,
+    "set": "Sword & Shield",
+    "rarity": "Common"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-154-dubwool.jpg",
+    "name": "Dubwool",
+    "hp": "130 HP",
+    "symbol": "C",
+    "number": 154,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-155-cramorant_v.jpg",
+    "name": "Cramorant V",
+    "hp": "200 HP",
+    "symbol": "C",
+    "number": 155,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo V"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-156-air_balloon.jpg",
+    "name": "Air Balloon",
+    "hp": null,
+    "symbol": null,
+    "number": 156,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-157-bede.jpg",
+    "name": "Bede",
+    "hp": null,
+    "symbol": null,
+    "number": 157,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-158-big_charm.jpg",
+    "name": "Big Charm",
+    "hp": null,
+    "symbol": null,
+    "number": 158,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-159-crushing_hammer.jpg",
+    "name": "Crushing Hammer",
+    "hp": null,
+    "symbol": null,
+    "number": 159,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-160-energy_retrieval.jpg",
+    "name": "Energy Retrieval",
+    "hp": null,
+    "symbol": null,
+    "number": 160,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-161-energy_search.jpg",
+    "name": "Energy Search",
+    "hp": null,
+    "symbol": null,
+    "number": 161,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-162-energy_switch.jpg",
+    "name": "Energy Switch",
+    "hp": null,
+    "symbol": null,
+    "number": 162,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-163-evolution_incense.jpg",
+    "name": "Evolution Incense",
+    "hp": null,
+    "symbol": null,
+    "number": 163,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-164-great_ball.jpg",
+    "name": "Great Ball",
+    "hp": null,
+    "symbol": null,
+    "number": 164,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-165-hop.jpg",
+    "name": "Hop",
+    "hp": null,
+    "symbol": null,
+    "number": 165,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-166-hyper_potion.jpg",
+    "name": "Hyper Potion",
+    "hp": null,
+    "symbol": null,
+    "number": 166,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-167-lucky_egg.jpg",
+    "name": "Lucky Egg",
+    "hp": null,
+    "symbol": null,
+    "number": 167,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-168-lum_berry.jpg",
+    "name": "Lum Berry",
+    "hp": null,
+    "symbol": null,
+    "number": 168,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-169-marnie.jpg",
+    "name": "Marnie",
+    "hp": null,
+    "symbol": null,
+    "number": 169,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-170-metal_saucer.jpg",
+    "name": "Metal Saucer",
+    "hp": null,
+    "symbol": null,
+    "number": 170,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-171-ordinary_rod.jpg",
+    "name": "Ordinary Rod",
+    "hp": null,
+    "symbol": null,
+    "number": 171,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-172-pal_pad.jpg",
+    "name": "Pal Pad",
+    "hp": null,
+    "symbol": null,
+    "number": 172,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-173-poke_kid.jpg",
+    "name": "Poké Kid",
+    "hp": null,
+    "symbol": null,
+    "number": 173,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-174-pokegear_30.jpg",
+    "name": "Pokégear 3.0",
+    "hp": null,
+    "symbol": null,
+    "number": 174,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-175-pokemon_catcher.jpg",
+    "name": "Pokémon Catcher",
+    "hp": null,
+    "symbol": null,
+    "number": 175,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-176-pokemon_center_lady.jpg",
+    "name": "Pokémon Center Lady",
+    "hp": null,
+    "symbol": null,
+    "number": 176,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-177-potion.jpg",
+    "name": "Potion",
+    "hp": null,
+    "symbol": null,
+    "number": 177,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-178-professors_research.jpg",
+    "name": "Professor’s Research",
+    "hp": null,
+    "symbol": null,
+    "number": 178,
+    "set": "Sword & Shield",
+    "rarity": "Rare Holo"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-179-quick_ball.jpg",
+    "name": "Quick Ball",
+    "hp": null,
+    "symbol": null,
+    "number": 179,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-180-rare_candy.jpg",
+    "name": "Rare Candy",
+    "hp": null,
+    "symbol": null,
+    "number": 180,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-181-rotom_bike.jpg",
+    "name": "Rotom Bike",
+    "hp": null,
+    "symbol": null,
+    "number": 181,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-182-sitrus_berry.jpg",
+    "name": "Sitrus Berry",
+    "hp": null,
+    "symbol": null,
+    "number": 182,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-183-switch.jpg",
+    "name": "Switch",
+    "hp": null,
+    "symbol": null,
+    "number": 183,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-184-team_yell_grunt.jpg",
+    "name": "Team Yell Grunt",
+    "hp": null,
+    "symbol": null,
+    "number": 184,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-185-vitality_band.jpg",
+    "name": "Vitality Band",
+    "hp": null,
+    "symbol": null,
+    "number": 185,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-186-aurora_energy.jpg",
+    "name": "Aurora Energy",
+    "hp": null,
+    "symbol": null,
+    "number": 186,
+    "set": "Sword & Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-187-dhelmise_v.jpg",
+    "name": "Dhelmise V",
+    "hp": "220 HP",
+    "symbol": "G",
+    "number": 187,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-188-torkoal_v.jpg",
+    "name": "Torkoal V",
+    "hp": "210 HP",
+    "symbol": "R",
+    "number": 188,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-189-lapras_v.jpg",
+    "name": "Lapras V",
+    "hp": "210 HP",
+    "symbol": "W",
+    "number": 189,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-190-morpeko_v.jpg",
+    "name": "Morpeko V",
+    "hp": "170 HP",
+    "symbol": "L",
+    "number": 190,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-191-wobbuffet_v.jpg",
+    "name": "Wobbuffet V",
+    "hp": "220 HP",
+    "symbol": "P",
+    "number": 191,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-192-indeedee_v.jpg",
+    "name": "Indeedee V",
+    "hp": "180 HP",
+    "symbol": "P",
+    "number": 192,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-193-stonjourner_v.jpg",
+    "name": "Stonjourner V",
+    "hp": "220 HP",
+    "symbol": "F",
+    "number": 193,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-194-sableye_v.jpg",
+    "name": "Sableye V",
+    "hp": "170 HP",
+    "symbol": "D",
+    "number": 194,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-195-zacian_v.jpg",
+    "name": "Zacian V",
+    "hp": "220 HP",
+    "symbol": "M",
+    "number": 195,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-196-zamazenta_v.jpg",
+    "name": "Zamazenta V",
+    "hp": "230 HP",
+    "symbol": "M",
+    "number": 196,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-197-snorlax_v.jpg",
+    "name": "Snorlax V",
+    "hp": "220 HP",
+    "symbol": "C",
+    "number": 197,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-198-cramorant_v.jpg",
+    "name": "Cramorant V",
+    "hp": "200 HP",
+    "symbol": "C",
+    "number": 198,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-199-bede.jpg",
+    "name": "Bede",
+    "hp": null,
+    "symbol": null,
+    "number": 199,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-200-marnie.jpg",
+    "name": "Marnie",
+    "hp": null,
+    "symbol": null,
+    "number": 200,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-201-professors_research.jpg",
+    "name": "Professor’s Research",
+    "hp": null,
+    "symbol": null,
+    "number": 201,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-202-team_yell_grunt-1.jpg",
+    "name": "Team Yell Grunt",
+    "hp": null,
+    "symbol": null,
+    "number": 202,
+    "set": "Sword & Shield",
+    "rarity": "Rare Ultra"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-203-lapras_vmax.jpg",
+    "name": "Lapras VMAX",
+    "hp": "320 HP",
+    "symbol": "W",
+    "number": 203,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-204-morpeko_vmax.jpg",
+    "name": "Morpeko VMAX",
+    "hp": "300 HP",
+    "symbol": "L",
+    "number": 204,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-205-stonjourner_vmax.jpg",
+    "name": "Stonjourner VMAX",
+    "hp": "330 HP",
+    "symbol": "F",
+    "number": 205,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-206-snorlax_vmax.jpg",
+    "name": "Snorlax VMAX",
+    "hp": "340 HP",
+    "symbol": "C",
+    "number": 206,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-207-bede.jpg",
+    "name": "Bede",
+    "hp": null,
+    "symbol": null,
+    "number": 207,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-208-marnie.jpg",
+    "name": "Marnie",
+    "hp": null,
+    "symbol": null,
+    "number": 208,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-209-professors_research.jpg",
+    "name": "Professor’s Research",
+    "hp": null,
+    "symbol": null,
+    "number": 209,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-210-team_yell_grunt.jpg",
+    "name": "Team Yell Grunt",
+    "hp": null,
+    "symbol": null,
+    "number": 210,
+    "set": "Sword & Shield",
+    "rarity": "Rare Rainbow"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-211-zacian_v-1.jpg",
+    "name": "Zacian V",
+    "hp": "220 HP",
+    "symbol": "M",
+    "number": 211,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-212-zamazenta_v.jpg",
+    "name": "Zamazenta V",
+    "hp": "230 HP",
+    "symbol": "M",
+    "number": 212,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-213-air_balloon.jpg",
+    "name": "Air Balloon",
+    "hp": null,
+    "symbol": null,
+    "number": 213,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-214-metal_saucer.jpg",
+    "name": "Metal Saucer",
+    "hp": null,
+    "symbol": null,
+    "number": 214,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-215-ordinary_rod.jpg",
+    "name": "Ordinary Rod",
+    "hp": null,
+    "symbol": null,
+    "number": 215,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  },
+  {
+    "imageFileName": "en_US-SWSH1-216-quick_ball.jpg",
+    "name": "Quick Ball",
+    "hp": null,
+    "symbol": null,
+    "number": 216,
+    "set": "Sword & Shield",
+    "rarity": "Rare Secret"
+  }
+]
