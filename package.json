@@ -9,6 +9,7 @@
   },
   "scripts": {
     "web": "yarn workspace web start",
+    "mobile": "yarn workspace mobile start",
     "android": "yarn workspace mobile android",
     "ios": "yarn workspace mobile ios",
     "studio": "yarn workspace mobile studio",
