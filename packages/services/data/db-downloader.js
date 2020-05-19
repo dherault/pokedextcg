@@ -5,24 +5,39 @@ const request = require('request')
 const { parse } = require('node-html-parser')
 
 const inputFolder = path.join(__dirname, 'input')
+const inputSetsfile = path.join(inputFolder, 'sets.json')
 const outputFolder = path.join(__dirname, 'output')
-
-const inputFileName = 'swordandshield.csv'
-const inputFilePath = path.join(inputFolder, inputFileName)
-
-const outputFilePath = path.join(outputFolder, 'swordandshield.json')
+const outputSetsFile = path.join(outputFolder, 'sets.json')
+const outputCardsFile = path.join(outputFolder, 'cards.json')
 const outputImagesPath = path.join(outputFolder, 'images')
 
-const inputCsvData = fs.readFileSync(inputFilePath, 'utf-8')
+downloadSets().then(() => console.log('Done'))
 
-const { data } = papaparse.parse(inputCsvData)
+async function downloadSets() {
+  const sets = JSON.parse(fs.readFileSync(inputSetsfile, 'utf-8'))
+  const cards = []
 
-data.shift();
+  for (const set of sets) {
+    console.log('set', set)
+    const inputSetFile = path.join(inputFolder, set.inputFile)
+    const inputCsvData = fs.readFileSync(inputSetFile, 'utf-8')
+    const { data } = papaparse.parse(inputCsvData)
 
-downloadImages(data).then(() => console.log('Done.'))
+    data.shift();
+    data.pop();
+
+    const setCards = await downloadImages(data, cards)
+
+    set.nCards = setCards.length
+    cards.push(...setCards)
+  }
+
+  fs.writeFileSync(outputSetsFile, JSON.stringify(sets, null, 2), 'utf-8')
+  fs.writeFileSync(outputCardsFile, JSON.stringify(cards, null, 2), 'utf-8')
+}
 
 async function downloadImages(dataArray) {
-  const outputData = []
+  const cards = []
 
   for (const [,, imageUrl, html] of dataArray) {
     if (!(imageUrl && html)) continue
@@ -39,7 +54,7 @@ async function downloadImages(dataArray) {
     const rarity = extract(parsedHtml, '.rarity')
     const set = extract(parsedHtml, '.set', x => x.replace('&amp;', '&'))
 
-    outputData.push({
+    cards.push({
       imageFileName,
       name,
       hp,
@@ -49,12 +64,12 @@ async function downloadImages(dataArray) {
       rarity,
     })
 
-    await downloadImage(imageUrl, outputImageFilePath)
+    // await downloadImage(imageUrl, outputImageFilePath)
   }
 
-  outputData.sort((a, b) => a.number < b.number ? -1 : 1)
+  cards.sort((a, b) => a.number < b.number ? -1 : 1)
 
-  fs.writeFileSync(outputFilePath, JSON.stringify(outputData, null, 2), 'utf-8')
+  return cards
 }
 
 function downloadImage(url, filePath){
