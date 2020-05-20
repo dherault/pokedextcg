@@ -5,7 +5,7 @@
     "hp": "180 HP",
     "symbol": "G",
     "number": 1,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -14,7 +14,7 @@
     "hp": "70 HP",
     "symbol": "G",
     "number": 2,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -23,7 +23,7 @@
     "hp": "70 HP",
     "symbol": "G",
     "number": 3,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -32,7 +32,7 @@
     "hp": "120 HP",
     "symbol": "G",
     "number": 4,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -41,7 +41,7 @@
     "hp": "60 HP",
     "symbol": "G",
     "number": 5,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -50,7 +50,7 @@
     "hp": "100 HP",
     "symbol": "G",
     "number": 6,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -59,7 +59,7 @@
     "hp": "110 HP",
     "symbol": "G",
     "number": 7,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -68,7 +68,7 @@
     "hp": "110 HP",
     "symbol": "G",
     "number": 8,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -77,7 +77,7 @@
     "hp": "220 HP",
     "symbol": "G",
     "number": 9,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -86,7 +86,7 @@
     "hp": "60 HP",
     "symbol": "G",
     "number": 10,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -95,7 +95,7 @@
     "hp": "70 HP",
     "symbol": "G",
     "number": 11,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -104,7 +104,7 @@
     "hp": "100 HP",
     "symbol": "G",
     "number": 12,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -113,7 +113,7 @@
     "hp": "100 HP",
     "symbol": "G",
     "number": 13,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -122,7 +122,7 @@
     "hp": "170 HP",
     "symbol": "G",
     "number": 14,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -131,7 +131,7 @@
     "hp": "190 HP",
     "symbol": "G",
     "number": 15,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -140,7 +140,7 @@
     "hp": "50 HP",
     "symbol": "G",
     "number": 16,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -149,7 +149,7 @@
     "hp": "40 HP",
     "symbol": "G",
     "number": 17,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -158,7 +158,7 @@
     "hp": "70 HP",
     "symbol": "G",
     "number": 18,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -167,7 +167,7 @@
     "hp": "130 HP",
     "symbol": "G",
     "number": 19,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -176,7 +176,7 @@
     "hp": "50 HP",
     "symbol": "G",
     "number": 20,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -185,7 +185,7 @@
     "hp": "80 HP",
     "symbol": "G",
     "number": 21,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -194,7 +194,7 @@
     "hp": "70 HP",
     "symbol": "R",
     "number": 22,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -203,7 +203,7 @@
     "hp": "120 HP",
     "symbol": "R",
     "number": 23,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -212,7 +212,7 @@
     "hp": "210 HP",
     "symbol": "R",
     "number": 24,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -221,7 +221,7 @@
     "hp": "190 HP",
     "symbol": "R",
     "number": 25,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -230,7 +230,7 @@
     "hp": "110 HP",
     "symbol": "R",
     "number": 26,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -239,7 +239,7 @@
     "hp": "70 HP",
     "symbol": "R",
     "number": 27,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -248,7 +248,7 @@
     "hp": "120 HP",
     "symbol": "R",
     "number": 28,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -257,7 +257,7 @@
     "hp": "130 HP",
     "symbol": "R",
     "number": 29,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -266,7 +266,7 @@
     "hp": "60 HP",
     "symbol": "R",
     "number": 30,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -275,7 +275,7 @@
     "hp": "70 HP",
     "symbol": "R",
     "number": 31,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -284,7 +284,7 @@
     "hp": "90 HP",
     "symbol": "R",
     "number": 32,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -293,7 +293,7 @@
     "hp": "90 HP",
     "symbol": "R",
     "number": 33,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -302,7 +302,7 @@
     "hp": "170 HP",
     "symbol": "R",
     "number": 34,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -311,7 +311,7 @@
     "hp": "170 HP",
     "symbol": "R",
     "number": 35,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -320,7 +320,7 @@
     "hp": "170 HP",
     "symbol": "R",
     "number": 36,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -329,7 +329,7 @@
     "hp": "70 HP",
     "symbol": "R",
     "number": 37,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -338,7 +338,7 @@
     "hp": "70 HP",
     "symbol": "R",
     "number": 38,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -347,7 +347,7 @@
     "hp": "130 HP",
     "symbol": "R",
     "number": 39,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -356,7 +356,7 @@
     "hp": "70 HP",
     "symbol": "W",
     "number": 40,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -365,7 +365,7 @@
     "hp": "130 HP",
     "symbol": "W",
     "number": 41,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -374,7 +374,7 @@
     "hp": "80 HP",
     "symbol": "W",
     "number": 42,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -383,7 +383,7 @@
     "hp": "80 HP",
     "symbol": "W",
     "number": 43,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -392,7 +392,7 @@
     "hp": "130 HP",
     "symbol": "W",
     "number": 44,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -401,7 +401,7 @@
     "hp": "70 HP",
     "symbol": "W",
     "number": 45,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -410,7 +410,7 @@
     "hp": "70 HP",
     "symbol": "W",
     "number": 46,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -419,7 +419,7 @@
     "hp": "110 HP",
     "symbol": "W",
     "number": 47,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -428,7 +428,7 @@
     "hp": "130 HP",
     "symbol": "W",
     "number": 48,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -437,7 +437,7 @@
     "hp": "210 HP",
     "symbol": "W",
     "number": 49,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -446,7 +446,7 @@
     "hp": "320 HP",
     "symbol": "W",
     "number": 50,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo VMAX"
   },
   {
@@ -455,7 +455,7 @@
     "hp": "90 HP",
     "symbol": "W",
     "number": 51,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -464,7 +464,7 @@
     "hp": "110 HP",
     "symbol": "W",
     "number": 52,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -473,7 +473,7 @@
     "hp": "210 HP",
     "symbol": "W",
     "number": 53,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -482,7 +482,7 @@
     "hp": "60 HP",
     "symbol": "W",
     "number": 54,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -491,7 +491,7 @@
     "hp": "70 HP",
     "symbol": "W",
     "number": 55,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -500,7 +500,7 @@
     "hp": "90 HP",
     "symbol": "W",
     "number": 56,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -509,7 +509,7 @@
     "hp": "90 HP",
     "symbol": "W",
     "number": 57,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -518,7 +518,7 @@
     "hp": "160 HP",
     "symbol": "W",
     "number": 58,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -527,7 +527,7 @@
     "hp": "160 HP",
     "symbol": "W",
     "number": 59,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -536,7 +536,7 @@
     "hp": "80 HP",
     "symbol": "W",
     "number": 60,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -545,7 +545,7 @@
     "hp": "130 HP",
     "symbol": "W",
     "number": 61,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -554,7 +554,7 @@
     "hp": "110 HP",
     "symbol": "W",
     "number": 62,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -563,7 +563,7 @@
     "hp": "50 HP",
     "symbol": "W",
     "number": 63,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -572,7 +572,7 @@
     "hp": "90 HP",
     "symbol": "W",
     "number": 64,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -581,7 +581,7 @@
     "hp": "60 HP",
     "symbol": "L",
     "number": 65,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -590,7 +590,7 @@
     "hp": "130 HP",
     "symbol": "L",
     "number": 66,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -599,7 +599,7 @@
     "hp": "70 HP",
     "symbol": "L",
     "number": 67,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -608,7 +608,7 @@
     "hp": "60 HP",
     "symbol": "L",
     "number": 68,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -617,7 +617,7 @@
     "hp": "120 HP",
     "symbol": "L",
     "number": 69,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -626,7 +626,7 @@
     "hp": "50 HP",
     "symbol": "L",
     "number": 70,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -635,7 +635,7 @@
     "hp": "100 HP",
     "symbol": "L",
     "number": 71,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -644,7 +644,7 @@
     "hp": "200 HP",
     "symbol": "L",
     "number": 72,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -653,7 +653,7 @@
     "hp": "70 HP",
     "symbol": "L",
     "number": 73,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -662,7 +662,7 @@
     "hp": "70 HP",
     "symbol": "L",
     "number": 74,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -671,7 +671,7 @@
     "hp": "130 HP",
     "symbol": "L",
     "number": 75,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -680,7 +680,7 @@
     "hp": "120 HP",
     "symbol": "L",
     "number": 76,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -689,7 +689,7 @@
     "hp": "80 HP",
     "symbol": "L",
     "number": 77,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -698,7 +698,7 @@
     "hp": "90 HP",
     "symbol": "L",
     "number": 78,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -707,7 +707,7 @@
     "hp": "170 HP",
     "symbol": "L",
     "number": 79,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -716,7 +716,7 @@
     "hp": "300 HP",
     "symbol": "L",
     "number": 80,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo VMAX"
   },
   {
@@ -725,7 +725,7 @@
     "hp": "70 HP",
     "symbol": "P",
     "number": 81,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -734,7 +734,7 @@
     "hp": "100 HP",
     "symbol": "P",
     "number": 82,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -743,7 +743,7 @@
     "hp": "60 HP",
     "symbol": "P",
     "number": 83,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -752,7 +752,7 @@
     "hp": "70 HP",
     "symbol": "P",
     "number": 84,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -761,7 +761,7 @@
     "hp": "110 HP",
     "symbol": "P",
     "number": 85,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -770,7 +770,7 @@
     "hp": "220 HP",
     "symbol": "P",
     "number": 86,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -779,7 +779,7 @@
     "hp": "70 HP",
     "symbol": "P",
     "number": 87,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -788,7 +788,7 @@
     "hp": "120 HP",
     "symbol": "P",
     "number": 88,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -797,7 +797,7 @@
     "hp": "30 HP",
     "symbol": "P",
     "number": 89,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -806,7 +806,7 @@
     "hp": "60 HP",
     "symbol": "P",
     "number": 90,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -815,7 +815,7 @@
     "hp": "180 HP",
     "symbol": "P",
     "number": 91,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -824,7 +824,7 @@
     "hp": "60 HP",
     "symbol": "F",
     "number": 92,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -833,7 +833,7 @@
     "hp": "90 HP",
     "symbol": "F",
     "number": 93,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -842,7 +842,7 @@
     "hp": "120 HP",
     "symbol": "F",
     "number": 94,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -851,7 +851,7 @@
     "hp": "120 HP",
     "symbol": "F",
     "number": 95,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -860,7 +860,7 @@
     "hp": "100 HP",
     "symbol": "F",
     "number": 96,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -869,7 +869,7 @@
     "hp": "90 HP",
     "symbol": "F",
     "number": 97,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -878,7 +878,7 @@
     "hp": "120 HP",
     "symbol": "F",
     "number": 98,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -887,7 +887,7 @@
     "hp": "190 HP",
     "symbol": "F",
     "number": 99,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -896,7 +896,7 @@
     "hp": "100 HP",
     "symbol": "F",
     "number": 100,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -905,7 +905,7 @@
     "hp": "70 HP",
     "symbol": "F",
     "number": 101,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -914,7 +914,7 @@
     "hp": "60 HP",
     "symbol": "F",
     "number": 102,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -923,7 +923,7 @@
     "hp": "120 HP",
     "symbol": "F",
     "number": 103,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -932,7 +932,7 @@
     "hp": "220 HP",
     "symbol": "F",
     "number": 104,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -941,7 +941,7 @@
     "hp": "80 HP",
     "symbol": "F",
     "number": 105,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -950,7 +950,7 @@
     "hp": "150 HP",
     "symbol": "F",
     "number": 106,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -959,7 +959,7 @@
     "hp": "80 HP",
     "symbol": "F",
     "number": 107,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -968,7 +968,7 @@
     "hp": "70 HP",
     "symbol": "F",
     "number": 108,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -977,7 +977,7 @@
     "hp": "140 HP",
     "symbol": "F",
     "number": 109,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -986,7 +986,7 @@
     "hp": "130 HP",
     "symbol": "F",
     "number": 110,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -995,7 +995,7 @@
     "hp": "60 HP",
     "symbol": "F",
     "number": 111,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1004,7 +1004,7 @@
     "hp": "80 HP",
     "symbol": "F",
     "number": 112,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1013,7 +1013,7 @@
     "hp": "130 HP",
     "symbol": "F",
     "number": 113,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1022,7 +1022,7 @@
     "hp": "120 HP",
     "symbol": "F",
     "number": 114,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1031,7 +1031,7 @@
     "hp": "220 HP",
     "symbol": "F",
     "number": 115,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1040,7 +1040,7 @@
     "hp": "330 HP",
     "symbol": "F",
     "number": 116,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo VMAX"
   },
   {
@@ -1049,7 +1049,7 @@
     "hp": "70 HP",
     "symbol": "D",
     "number": 117,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1058,7 +1058,7 @@
     "hp": "100 HP",
     "symbol": "D",
     "number": 118,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1067,7 +1067,7 @@
     "hp": "160 HP",
     "symbol": "D",
     "number": 119,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1076,7 +1076,7 @@
     "hp": "170 HP",
     "symbol": "D",
     "number": 120,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1085,7 +1085,7 @@
     "hp": "80 HP",
     "symbol": "D",
     "number": 121,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1094,7 +1094,7 @@
     "hp": "140 HP",
     "symbol": "D",
     "number": 122,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1103,7 +1103,7 @@
     "hp": "70 HP",
     "symbol": "D",
     "number": 123,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1112,7 +1112,7 @@
     "hp": "110 HP",
     "symbol": "D",
     "number": 124,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1121,7 +1121,7 @@
     "hp": "70 HP",
     "symbol": "D",
     "number": 125,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1130,7 +1130,7 @@
     "hp": "100 HP",
     "symbol": "D",
     "number": 126,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1139,7 +1139,7 @@
     "hp": "70 HP",
     "symbol": "M",
     "number": 127,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1148,7 +1148,7 @@
     "hp": "120 HP",
     "symbol": "M",
     "number": 128,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1157,7 +1157,7 @@
     "hp": "90 HP",
     "symbol": "M",
     "number": 129,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1166,7 +1166,7 @@
     "hp": "70 HP",
     "symbol": "M",
     "number": 130,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1175,7 +1175,7 @@
     "hp": "130 HP",
     "symbol": "M",
     "number": 131,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1184,7 +1184,7 @@
     "hp": "120 HP",
     "symbol": "M",
     "number": 132,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1193,7 +1193,7 @@
     "hp": "70 HP",
     "symbol": "M",
     "number": 133,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1202,7 +1202,7 @@
     "hp": "120 HP",
     "symbol": "M",
     "number": 134,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1211,7 +1211,7 @@
     "hp": "170 HP",
     "symbol": "M",
     "number": 135,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1220,7 +1220,7 @@
     "hp": "100 HP",
     "symbol": "M",
     "number": 136,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1229,7 +1229,7 @@
     "hp": "190 HP",
     "symbol": "M",
     "number": 137,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1238,7 +1238,7 @@
     "hp": "220 HP",
     "symbol": "M",
     "number": 138,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1247,7 +1247,7 @@
     "hp": "230 HP",
     "symbol": "M",
     "number": 139,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1256,7 +1256,7 @@
     "hp": "150 HP",
     "symbol": "C",
     "number": 140,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1265,7 +1265,7 @@
     "hp": "220 HP",
     "symbol": "C",
     "number": 141,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1274,7 +1274,7 @@
     "hp": "340 HP",
     "symbol": "C",
     "number": 142,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo VMAX"
   },
   {
@@ -1283,7 +1283,7 @@
     "hp": "70 HP",
     "symbol": "C",
     "number": 143,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1292,7 +1292,7 @@
     "hp": "110 HP",
     "symbol": "C",
     "number": 144,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1301,7 +1301,7 @@
     "hp": "70 HP",
     "symbol": "C",
     "number": 145,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1310,7 +1310,7 @@
     "hp": "60 HP",
     "symbol": "C",
     "number": 146,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1319,7 +1319,7 @@
     "hp": "90 HP",
     "symbol": "C",
     "number": 147,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1328,7 +1328,7 @@
     "hp": "120 HP",
     "symbol": "C",
     "number": 148,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1337,7 +1337,7 @@
     "hp": "130 HP",
     "symbol": "C",
     "number": 149,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare"
   },
   {
@@ -1346,7 +1346,7 @@
     "hp": "60 HP",
     "symbol": "C",
     "number": 150,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1355,7 +1355,7 @@
     "hp": "80 HP",
     "symbol": "C",
     "number": 151,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1364,7 +1364,7 @@
     "hp": "70 HP",
     "symbol": "C",
     "number": 152,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1373,7 +1373,7 @@
     "hp": "70 HP",
     "symbol": "C",
     "number": 153,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Common"
   },
   {
@@ -1382,7 +1382,7 @@
     "hp": "130 HP",
     "symbol": "C",
     "number": 154,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1391,7 +1391,7 @@
     "hp": "200 HP",
     "symbol": "C",
     "number": 155,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo V"
   },
   {
@@ -1400,7 +1400,7 @@
     "hp": null,
     "symbol": null,
     "number": 156,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1409,7 +1409,7 @@
     "hp": null,
     "symbol": null,
     "number": 157,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1418,7 +1418,7 @@
     "hp": null,
     "symbol": null,
     "number": 158,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1427,7 +1427,7 @@
     "hp": null,
     "symbol": null,
     "number": 159,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1436,7 +1436,7 @@
     "hp": null,
     "symbol": null,
     "number": 160,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1445,7 +1445,7 @@
     "hp": null,
     "symbol": null,
     "number": 161,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1454,7 +1454,7 @@
     "hp": null,
     "symbol": null,
     "number": 162,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1463,7 +1463,7 @@
     "hp": null,
     "symbol": null,
     "number": 163,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1472,7 +1472,7 @@
     "hp": null,
     "symbol": null,
     "number": 164,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1481,7 +1481,7 @@
     "hp": null,
     "symbol": null,
     "number": 165,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1490,7 +1490,7 @@
     "hp": null,
     "symbol": null,
     "number": 166,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1499,7 +1499,7 @@
     "hp": null,
     "symbol": null,
     "number": 167,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1508,7 +1508,7 @@
     "hp": null,
     "symbol": null,
     "number": 168,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1517,7 +1517,7 @@
     "hp": null,
     "symbol": null,
     "number": 169,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1526,7 +1526,7 @@
     "hp": null,
     "symbol": null,
     "number": 170,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1535,7 +1535,7 @@
     "hp": null,
     "symbol": null,
     "number": 171,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1544,7 +1544,7 @@
     "hp": null,
     "symbol": null,
     "number": 172,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1553,7 +1553,7 @@
     "hp": null,
     "symbol": null,
     "number": 173,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1562,7 +1562,7 @@
     "hp": null,
     "symbol": null,
     "number": 174,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1571,7 +1571,7 @@
     "hp": null,
     "symbol": null,
     "number": 175,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1580,7 +1580,7 @@
     "hp": null,
     "symbol": null,
     "number": 176,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1589,7 +1589,7 @@
     "hp": null,
     "symbol": null,
     "number": 177,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1598,7 +1598,7 @@
     "hp": null,
     "symbol": null,
     "number": 178,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Holo"
   },
   {
@@ -1607,7 +1607,7 @@
     "hp": null,
     "symbol": null,
     "number": 179,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1616,7 +1616,7 @@
     "hp": null,
     "symbol": null,
     "number": 180,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1625,7 +1625,7 @@
     "hp": null,
     "symbol": null,
     "number": 181,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1634,7 +1634,7 @@
     "hp": null,
     "symbol": null,
     "number": 182,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1643,7 +1643,7 @@
     "hp": null,
     "symbol": null,
     "number": 183,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1652,7 +1652,7 @@
     "hp": null,
     "symbol": null,
     "number": 184,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1661,7 +1661,7 @@
     "hp": null,
     "symbol": null,
     "number": 185,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1670,7 +1670,7 @@
     "hp": null,
     "symbol": null,
     "number": 186,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Uncommon"
   },
   {
@@ -1679,7 +1679,7 @@
     "hp": "220 HP",
     "symbol": "G",
     "number": 187,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1688,7 +1688,7 @@
     "hp": "210 HP",
     "symbol": "R",
     "number": 188,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1697,7 +1697,7 @@
     "hp": "210 HP",
     "symbol": "W",
     "number": 189,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1706,7 +1706,7 @@
     "hp": "170 HP",
     "symbol": "L",
     "number": 190,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1715,7 +1715,7 @@
     "hp": "220 HP",
     "symbol": "P",
     "number": 191,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1724,7 +1724,7 @@
     "hp": "180 HP",
     "symbol": "P",
     "number": 192,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1733,7 +1733,7 @@
     "hp": "220 HP",
     "symbol": "F",
     "number": 193,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1742,7 +1742,7 @@
     "hp": "170 HP",
     "symbol": "D",
     "number": 194,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1751,7 +1751,7 @@
     "hp": "220 HP",
     "symbol": "M",
     "number": 195,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1760,7 +1760,7 @@
     "hp": "230 HP",
     "symbol": "M",
     "number": 196,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1769,7 +1769,7 @@
     "hp": "220 HP",
     "symbol": "C",
     "number": 197,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1778,7 +1778,7 @@
     "hp": "200 HP",
     "symbol": "C",
     "number": 198,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1787,7 +1787,7 @@
     "hp": null,
     "symbol": null,
     "number": 199,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1796,7 +1796,7 @@
     "hp": null,
     "symbol": null,
     "number": 200,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1805,7 +1805,7 @@
     "hp": null,
     "symbol": null,
     "number": 201,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1814,7 +1814,7 @@
     "hp": null,
     "symbol": null,
     "number": 202,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Ultra"
   },
   {
@@ -1823,7 +1823,7 @@
     "hp": "320 HP",
     "symbol": "W",
     "number": 203,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1832,7 +1832,7 @@
     "hp": "300 HP",
     "symbol": "L",
     "number": 204,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1841,7 +1841,7 @@
     "hp": "330 HP",
     "symbol": "F",
     "number": 205,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1850,7 +1850,7 @@
     "hp": "340 HP",
     "symbol": "C",
     "number": 206,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1859,7 +1859,7 @@
     "hp": null,
     "symbol": null,
     "number": 207,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1868,7 +1868,7 @@
     "hp": null,
     "symbol": null,
     "number": 208,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1877,7 +1877,7 @@
     "hp": null,
     "symbol": null,
     "number": 209,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1886,7 +1886,7 @@
     "hp": null,
     "symbol": null,
     "number": 210,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Rainbow"
   },
   {
@@ -1895,7 +1895,7 @@
     "hp": "220 HP",
     "symbol": "M",
     "number": 211,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   },
   {
@@ -1904,7 +1904,7 @@
     "hp": "230 HP",
     "symbol": "M",
     "number": 212,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   },
   {
@@ -1913,7 +1913,7 @@
     "hp": null,
     "symbol": null,
     "number": 213,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   },
   {
@@ -1922,7 +1922,7 @@
     "hp": null,
     "symbol": null,
     "number": 214,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   },
   {
@@ -1931,7 +1931,7 @@
     "hp": null,
     "symbol": null,
     "number": 215,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   },
   {
@@ -1940,7 +1940,7 @@
     "hp": null,
     "symbol": null,
     "number": 216,
-    "set": "Sword & Shield",
+    "setId": "SSH",
     "rarity": "Rare Secret"
   }
 ]
